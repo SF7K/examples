@@ -25,8 +25,6 @@
 
         <input type="submit" value="Ajouter le piano">
     </form>
-
-
 @endsection
 
 
